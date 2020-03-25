@@ -1,0 +1,26 @@
+.logo{
+  height: 12em;
+}
+.nv{
+  width: 100%;
+  height: 4em;
+  border-bottom: solid 2px rgb(0, 170, 242);
+}
+.nv-list{
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 2em 0 0;
+  padding: 0;
+}
+.nv-item a{
+  text-decoration: none;
+  font-size: 2em;
+  text-align: center;
+  color: black;
+}
+.nv-item{
+  height: 4em;
+  line-height: 4em;
+  margin: 0 1em;
+}
